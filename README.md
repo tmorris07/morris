@@ -27,7 +27,7 @@
         </section>
     </main>
     <footer>
-        <p>Contact Information: <a href="mailto:tannermorris90@gmail.com">yourname@example.com</a></p>
+        <p>Contact Information: <a href="mailto:tannermorris90@gmail.com">tannermorris90@gmail.com</a></p>
         <p>Follow me on <a href="#">Social Media</a></p>
     </footer>
 </body>
