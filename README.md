@@ -9,13 +9,16 @@
 <body>
     <header>
         <h1>Welcome to My Portfolio</h1>
-        <p>Your Name - Web Programming Class</p>
+        <p>Tanner Morris - Web Programming @ Southwestern College</p>
     </header>
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
             <li><a href="#">Project 1</a></li>
             <li><a href="#">Project 2</a></li>
+            <li><a href="#">Project 3</a></li>
+            <li><a href="#">Project 4</a></li>
+            <li><a href="#">Project 5</a></li>
             <li><a href="#">Contact</a></li>
         </ul>
     </nav>
@@ -33,6 +36,61 @@
         <p>Contact Information: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
         <p>Follow me on <a href="#">Social Media</a></p>
     </footer>
+    body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+
+nav {
+    background-color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    background-color: #111;
+}
+
+main {
+    flex: 1;
+    padding: 1rem;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
 </body>
 </html>
 # morris
