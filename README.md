@@ -9,7 +9,6 @@
             <li><a href="#">Home</a></li>
             <li><a href="#">Project 1</a></li>
             <li><a href="#">Project 2</a></li>
-            <li><a href="#">Contact</a></li>
         </ul>
     </nav>
     <main>
