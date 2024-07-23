@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Images</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="text.html">Text/Terms</a></li>
+                <li><a href="images.html">Images</a></li>
+                <li><a href="multimedia.html">Multimedia</a></li>
+                <li><a href="links.html">Links</a></li>
+                <li><a href="user.html">User Design</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Gallery</h2>
+            <img src="ideatek.jpg" alt="This is my current employer. I have worked there for over two years now and have enjoyed learning my position(s).">
+            <img src="morris.jpg" alt="This is myself and my beautiful wife. We've been married since December of 2022.">
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Portfolio</p>
+    </footer>
+</body>
+</html>
 
