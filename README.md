@@ -7,8 +7,11 @@
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">Project 1</a></li>
-            <li><a href="#">Project 2</a></li>
+            <li><a href="text.html">Text/Terms</a></li>
+            <li><a href="images.html">Images</a></li>
+            <li><a href="multimedia.html">Multimedia</a></li>
+            <li><a href="links.html">Links</a></li>
+            <li><a href="user.html">User Design</a></li>
         </ul>
     </nav>
     <main>
