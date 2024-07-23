@@ -28,11 +28,6 @@
                 <li><a href="https://www.gbchutch.com" target="_blank">GBC Communications</a></li>
             </ul>
         </section>
-        <section>
-            <h2>Gallery</h2>
-            <img src="morris.jpg" alt="Pictured is my wife and I. We got married in December 2022 and have 2 small dogs named Beau and Rosie. Beau is a shihtzu-yorkie mix and Rosie is a pure bread miniature dachshund.">
-            <img src="ideatek.jpg" alt="IdeaTek is my current employer and I have learned a lot about WiFi and how quick and reliable fiber internet is. This has influenced my interest in WiFi and smart home devices.">
-        </section>
     </main>
     <footer>
         <p>Contact Information: <a href="mailto:tannermorris90@gmail.com">tannermorris90@gmail.com</a></p>
